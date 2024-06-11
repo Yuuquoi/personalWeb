@@ -15,4 +15,4 @@
 ![img](./readme/detail.png)
 
 ## 開發計畫
-
+- [ ] 使用 three.js 重新架構 personal web 2.0
