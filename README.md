@@ -13,7 +13,3 @@
 ![img](./readme/tagCloud.png)
 ### 詳細文字
 ![img](./readme/detail.png)
-
-## 開發計畫
-- [x] 使用 three.js 重新架構 [personal web 2.0](<https://github.com/Yuuquoi/personalWeb2.0/>) ( 2024.06.12 done)
-- [ ] 開發部落格區塊
